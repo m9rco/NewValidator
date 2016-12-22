@@ -1,5 +1,5 @@
 <?php
-namespace library\Valitron;
+namespace newValitron;
 
 use InvalidArgumentException;
 
